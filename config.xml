@@ -54,7 +54,7 @@
     
     <gap:plugin name="cordova-custom-config" source="npm" />
     <gap:plugin name="cordova-plugin-fullscreen" source="npm" />
-    <plugin name="cordova-plugin-bluetoothle" src="npm" />
+    <plugin name="cordova-plugin-bluetoothle" version="4.0.0" src="npm" />
     
     <icon src="icon.png" />
     
